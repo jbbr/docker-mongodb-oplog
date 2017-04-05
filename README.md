@@ -1,4 +1,4 @@
-Using https://github.com/mvertes/docker-alpine-mongo for a tiny mongo image.
+Using official MongoDB 3.2 image (Meteor compatibility)
 
 This adds a replica set `rs0`.
 
